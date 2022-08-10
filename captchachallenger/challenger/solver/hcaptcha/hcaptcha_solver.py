@@ -88,7 +88,7 @@ class hCaptchaSolver(BaseSolver):
                         self.model_runner_factory[challenge][lang] = {}
 
                     # register model runner
-                    for alias in lang:
+                    for alias in model.lang[lang]:
                         if alias.startswith("__"):
                             continue
                         self.model_runner_factory[challenge][lang][alias] = runner_
@@ -125,7 +125,7 @@ class hCaptchaSolver(BaseSolver):
         result = []
         for img in content:
             # infer image
-            result_ = runner.infer(img)
+            result_ = runner.infer(img.read())
             # append result
             result.append(result_)
 

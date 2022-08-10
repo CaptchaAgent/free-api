@@ -25,6 +25,8 @@ class BinaryRunner(BaseRunner):
 
         self.net = cv2.dnn.readNetFromONNX(self.model_path)
 
+        self.image_size = self.cfg.get("size", (64, 64))
+
     def infer(self, img_stream, label: int = 0) -> bool:
         img_arr = np.frombuffer(img_stream, np.uint8)
         img = cv2.imdecode(img_arr, flags=1)
@@ -32,13 +34,6 @@ class BinaryRunner(BaseRunner):
         # fixme: dup-code
         if img.shape[0] == special_image_size_gallery.WATERMARK:
             img = cv2.fastNlMeansDenoisingColored(img, None, 10, 10, 7, 21)
-
-        if feature_filters is not None:
-            if not isinstance(feature_filters, list):
-                feature_filters = [feature_filters]
-            for tnt in feature_filters:
-                if not tnt(img):
-                    return False
 
         img = cv2.resize(img, self.image_size)
         blob = cv2.dnn.blobFromImage(

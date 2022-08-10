@@ -23,7 +23,7 @@ def api(request, solver_name: str):
         if prompt is None:
             raise ValueError("prompt is required")
 
-        content = request.FILES.getlist("content")
+        content = request.FILES.getlist("img")
         if content is None:
             raise ValueError("content is required")
 
