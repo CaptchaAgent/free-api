@@ -13,7 +13,7 @@ def api(request, solver_name: str):
     try:
         solver_name = solver_name.lower()
 
-        solver = build_solver(solver_name)()
+        solver = build_solver(solver_name)
 
         challenge = request.POST.get("challenge")
         if challenge is None:
@@ -23,11 +23,17 @@ def api(request, solver_name: str):
         if prompt is None:
             raise ValueError("prompt is required")
 
-        content = request.POST.get("content")
+        content = request.FILES.getlist("content")
         if content is None:
             raise ValueError("content is required")
 
-        result = solver.solve(challenge, prompt, content)
+        lang = request.POST.get("lang")
+        if lang is None:
+            lang = "en"
+
+        result = solver.solve(
+            challenge=challenge, prompt=prompt, content=content, lang=lang
+        )
 
         return HttpResponse(
             json.dumps({"result": result}),

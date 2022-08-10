@@ -1,0 +1,69 @@
+# Pluggable ONNX model
+# - name: onnx_prefix
+#   zh: ["zh_prompt_label"]
+#   en: ["en_prompt_label"]
+image_label_binary:
+  - name: yolov5n6
+    lang:
+      zh:
+      en:
+  - name: seaplane
+    lang:
+      zh: ["水上飞机"]
+      en: ["seaplane"]
+  - name: domestic_cat
+    lang:
+      zh: ["家猫"]
+      en: ["domestic cat"]
+  - name: bedroom
+    lang:
+      zh: ["卧室"]
+      en: ["bedroom"]
+  - name: bridge
+    lang:
+      zh: ["桥梁"]
+      en: ["bridge"]
+  - name: lion
+    lang:
+      zh: ["狮子"]
+      en: ["lion"]
+  - name: living_room
+    lang:
+      zh: ["客厅"]
+      en: ["living room"]
+  - name: horse
+    lang:
+      zh: ["一匹马"]
+      en: ["horse"]
+  - name: conference_room
+    lang:
+      zh: ["会议室"]
+      en: ["conference room"]
+  - name: smiling_dog
+    lang:
+      zh: ["微笑狗"]
+      en: ["smiling dog"]
+  - name: horse_made_of_clouds
+    lang:
+      zh: ["一匹由云制成的马"]
+      en: ["horse made of clouds"]
+  - name: elephant_made_of_clouds
+    lang:
+      zh: ["由云制成的大象"]
+      en: ["elephant made of clouds"]
+  - name: giraffe
+    lang:
+      zh: ["长颈鹿"]
+      en: ["giraffe"]
+  - name: parrot
+    lang:
+      zh: ["鹦鹉"]
+      en: ["parrot"]
+  - name: lion_with_mane_on_its_neck
+    lang:
+      zh: ["一只脖子上有鬃毛的狮子"]
+      en: ["lion with mane on its neck"]
+  - name: lion_with_open_eyes
+    lang:
+      zh: ["睁开眼睛的狮子"]
+      en: ["lion with open eyes"]

@@ -9,12 +9,12 @@
 
 from .hcaptcha import hCaptchaSolver
 
-solver_factories = {
-    "hcaptcha": hCaptchaSolver,
+solver_factory = {
+    "hcaptcha": hCaptchaSolver(),
 }
 
 
 def build_solver(solver_name: str):
-    if solver_name not in solver_factories:
+    if solver_name not in solver_factory:
         raise ValueError(f"unknown solver: {solver_name}")
-    return solver_factories[solver_name]
+    return solver_factory[solver_name]
