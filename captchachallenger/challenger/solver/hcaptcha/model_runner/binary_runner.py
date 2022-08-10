@@ -23,7 +23,7 @@ class BinaryRunner(BaseRunner):
         print(f"Downloading {self.model_path} from {self.model_url}")
         self.download(self.model_path, self.model_url)
 
-        self.net = cv2.dnn.readNetFromONNX(model_path)
+        self.net = cv2.dnn.readNetFromONNX(self.model_path)
 
     def infer(self, img_stream, label: int = 0) -> bool:
         img_arr = np.frombuffer(img_stream, np.uint8)

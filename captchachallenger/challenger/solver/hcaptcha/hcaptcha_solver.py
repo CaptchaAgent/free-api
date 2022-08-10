@@ -60,6 +60,12 @@ class hCaptchaSolver(BaseSolver):
             },
         }
 
+        self.supported_lang = []
+
+        # special processing for yolo runner
+
+        # build model runner binary runner
+
         for challenge in model_cfg:
             if challenge.startswith("__"):
                 continue
@@ -69,17 +75,22 @@ class hCaptchaSolver(BaseSolver):
             # print(f"model_cfg[challenge]: {model_cfg[challenge]}")
             for model in model_cfg[challenge]:
                 # build model runner
-                print(f"building {model} model runner")
+                print(f"building {model} runner")
                 runner_ = self.build_model_runner(model)
 
                 for lang in model.lang:
+                    if lang.startswith("__"):
+                        continue
                     # statistics supported lang
                     if lang not in self.supported_lang:
                         self.supported_lang.append(lang)
+                    if lang not in self.model_runner_factory[challenge]:
                         self.model_runner_factory[challenge][lang] = {}
 
                     # register model runner
                     for alias in lang:
+                        if alias.startswith("__"):
+                            continue
                         self.model_runner_factory[challenge][lang][alias] = runner_
                         self.label_alias[lang][alias] = model.name
 

@@ -15,7 +15,7 @@ import yaml
 model_url_prefix = (
     "https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model"
 )
-model_path = os.path.join(os.path.dirname(__file__), "model", "hcaptcha")
+model_path = os.path.join(os.path.dirname(__file__), "..", "model", "hcaptcha")
 os.makedirs(model_path, exist_ok=True)
 
 

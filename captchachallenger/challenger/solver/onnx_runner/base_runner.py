@@ -20,13 +20,16 @@ class BaseRunner(object):
         raise NotImplementedError()
 
     @staticmethod
-    def download(model_path: str, model_url: str):
+    def download(model_path: str, model_url: str, force: bool = False):
         """Download the de-stylized binary classification model"""
 
         if not model_url.lower().startswith("http"):
             raise ValueError from None
 
-        print(f"Downloading {model_path} from {model_url}")
+        # check file exist
+        if os.path.exists(model_path) and not force:
+            return
+
         with requests.get(model_url, stream=True) as response, open(
             model_path, "wb"
         ) as file:
