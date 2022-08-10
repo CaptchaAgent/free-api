@@ -3,10 +3,6 @@
 #   zh: ["zh_prompt_label"]
 #   en: ["en_prompt_label"]
 image_label_binary:
-  - name: yolov5n6
-    lang:
-      zh:
-      en:
   - name: seaplane
     lang:
       zh: ["水上飞机"]

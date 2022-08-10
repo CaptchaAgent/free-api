@@ -20,6 +20,7 @@ class BinaryRunner(BaseRunner):
 
         self.model_path = os.path.join(model_path, f"{self.cfg.get('name')}.onnx")
         self.model_url = f"{model_url_prefix}/{self.cfg.get('name')}.onnx"
+        print(f"Downloading {self.model_path} from {self.model_url}")
         self.download(self.model_path, self.model_url)
 
         self.net = cv2.dnn.readNetFromONNX(model_path)
