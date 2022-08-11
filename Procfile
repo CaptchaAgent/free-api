@@ -1,1 +1,1 @@
-web: gunicorn captchachallenger.captchachallenger.wsgi
+web: python captchachallenger/manage.py runserver 0.0.0.0:5000
