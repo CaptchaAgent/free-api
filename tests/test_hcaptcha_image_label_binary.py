@@ -44,7 +44,9 @@ if __name__ == "__main__":
         # files.append(("img", image_data))
         files.append(("img", open(img_name, "rb")))
 
-    url = "http://localhost:8000/api/hcaptcha/"
+    host = "http://captcha-challenger.herokuapp.com"
+    # host = "http://localhost:8000/"
+    url = f"{host}/api/hcaptcha/"
     data = {
         "challenge": challenge,
         "prompt": prompt,
