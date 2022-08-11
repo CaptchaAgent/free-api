@@ -1,1 +1,1 @@
-web: python captchachallenger/manage.py runserver 0.0.0.0:5000
+web: gunicorn captchachallenger.captchachallenger.wsgi --bind :$PORT
