@@ -1,1 +1,1 @@
-web: gunicorn captchachallenger.captchachallenger.wsgi --bind :$PORT
+web: sh -c 'cd ./captchachallenger/ && gunicorn captchachallenger.wsgi --bind :$PORT'
