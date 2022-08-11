@@ -27,7 +27,7 @@ class BinaryRunner(BaseRunner):
 
         self.image_size = self.cfg.get("size", (64, 64))
 
-    def infer(self, img_stream, label: int = 0) -> bool:
+    def infer(self, img_stream, label: str = None, label_idx: int = 0) -> bool:
         img_arr = np.frombuffer(img_stream, np.uint8)
         img = cv2.imdecode(img_arr, flags=1)
 
@@ -43,6 +43,6 @@ class BinaryRunner(BaseRunner):
         self.net.setInput(blob)
         out = self.net.forward()
 
-        if not np.argmax(out, axis=1)[label]:
+        if not np.argmax(out, axis=1)[label_idx]:
             return True
         return False

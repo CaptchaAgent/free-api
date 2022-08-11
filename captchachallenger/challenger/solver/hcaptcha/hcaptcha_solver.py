@@ -22,7 +22,7 @@ class hCaptchaSolver(BaseSolver):
         }
         # pre build model runner
         self.model_runner_factory = {}
-        self.label_alias = {
+        self.yolo_label_alias = {
             "zh": {
                 "自行车": "bicycle",
                 "火车": "train",
@@ -61,8 +61,25 @@ class hCaptchaSolver(BaseSolver):
         }
 
         self.supported_lang = []
+        self.label_alias = {}
 
         # special processing for yolo runner
+        yolo_model_cfg = ez.Config(name="yolov5s6")
+        yolo_runner = self.build_model_runner(yolo_model_cfg)
+        self.model_runner_factory["image_label_binary"] = {}
+        for lang in self.yolo_label_alias.keys():
+            if lang not in self.supported_lang:
+                self.supported_lang.append(lang)
+            if lang not in self.label_alias:
+                self.label_alias[lang] = {}
+            if lang not in self.model_runner_factory["image_label_binary"]:
+                self.model_runner_factory["image_label_binary"][lang] = {}
+
+            for alias, label in self.yolo_label_alias[lang].items():
+                self.label_alias[lang][alias] = label
+                self.model_runner_factory["image_label_binary"][lang][
+                    alias
+                ] = yolo_runner
 
         # build model runner binary runner
 
@@ -120,12 +137,17 @@ class hCaptchaSolver(BaseSolver):
         label = self.get_label(prompt, lang)
 
         # get model runner
-        runner = self.model_runner_factory["image_label_binary"][lang][label]
+        try:
+            runner = self.model_runner_factory["image_label_binary"][lang][label]
+        except KeyError:
+            raise ValueError(
+                f"unsupported label: {label}, supported: {self.model_runner_factory['image_label_binary'][lang].keys()}"
+            )
 
         result = []
         for img in content:
             # infer image
-            result_ = runner.infer(img.read())
+            result_ = runner.infer(img.read(), label=label)
             # append result
             result.append(result_)
 
