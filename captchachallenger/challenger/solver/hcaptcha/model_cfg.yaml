@@ -159,3 +159,11 @@ image_label_binary:
     en: [toy rabbit]
     zh: [玩具兔子]
   name: toy_rabbit
+- lang:
+    en: [rabbit in the grass]
+    zh: [兔子]
+  name: rabbit_in_the_grass
+- lang:
+    en: [turtle]
+    zh: [海龟]
+  name: turtle
