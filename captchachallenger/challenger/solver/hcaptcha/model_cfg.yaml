@@ -160,10 +160,18 @@ image_label_binary:
     zh: [玩具兔子]
   name: toy_rabbit
 - lang:
-    en: [rabbit in the grass, rabbit]
-    zh: [兔子]
+    en: [rabbit in the grass]
+    zh: []
   name: rabbit_in_the_grass
+- lang:
+    en: [rabbit swimming in water, rabbit]
+    zh: [兔子在水中游泳, 兔子]
+  name: rabbit
 - lang:
     en: [turtle]
     zh: [海龟]
   name: turtle
+- lang:
+    en: [turtle under the water]
+    zh: [水下乌龟]
+  name: turtle_under_the_water
