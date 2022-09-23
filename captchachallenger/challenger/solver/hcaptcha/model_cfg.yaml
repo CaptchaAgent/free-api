@@ -149,7 +149,7 @@ image_label_binary:
   name: plant_hanging_from_the_ceiling
 - lang:
     en: [plant on the table]
-    zh: [植物]
+    zh: [植物, 桌子上包含植物]
   name: plant_on_the_table
 - lang:
     en: [dead and dried plant in the pot]
@@ -161,7 +161,7 @@ image_label_binary:
   name: toy_rabbit
 - lang:
     en: [rabbit in the grass]
-    zh: []
+    zh: [草丛中包含兔子]
   name: rabbit_in_the_grass
 - lang:
     en: [rabbit]
@@ -185,5 +185,5 @@ image_label_binary:
   name: toy_turtle
 - lang:
     en: [turtle in the grass]
-    zh: []
+    zh: [草丛中包含乌龟]
   name: turtle_in_the_grass
