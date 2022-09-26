@@ -187,3 +187,15 @@ image_label_binary:
     en: [turtle in the grass]
     zh: [草丛中包含乌龟]
   name: turtle_in_the_grass
+- lang:
+    en: [duck]
+    zh: [鸭子]
+  name: duck
+- lang:
+    en: [house covered in snow]
+    zh: [被雪覆盖的房子]
+  name: house_covered_in_snow
+- lang:
+    en: [toy house]
+    zh: [玩具屋]
+  name: toy_house
