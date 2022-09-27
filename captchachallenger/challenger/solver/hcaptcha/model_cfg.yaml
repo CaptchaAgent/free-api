@@ -199,3 +199,11 @@ image_label_binary:
     en: [toy house]
     zh: [玩具屋]
   name: toy_house
+- lang:
+    en: [duck in the water]
+    zh: [水中鸭子]
+  name: duck_in_the_water
+- lang:
+    en: [house]
+    zh: [房子]
+  name: house
