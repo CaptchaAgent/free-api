@@ -207,3 +207,7 @@ image_label_binary:
     en: [house]
     zh: [房子]
   name: house
+- lang:
+    en: [cactus]
+    zh: [仙人掌]
+  name: cactus
