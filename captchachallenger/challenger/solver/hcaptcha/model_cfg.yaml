@@ -201,7 +201,7 @@ image_label_binary:
   name: toy_house
 - lang:
     en: [duck in the water]
-    zh: [水中鸭子]
+    zh: [水中鸭子, 水中鸭子的图像]
   name: duck_in_the_water
 - lang:
     en: [house]
@@ -211,3 +211,15 @@ image_label_binary:
     en: [cactus]
     zh: [仙人掌]
   name: cactus
+- lang:
+    en: [penguin surrounded by flowers]
+    zh: [被鲜花包围的企鹅, 被鲜]
+  name: penguin_surrounded_by_flowers
+- lang:
+    en: [penguin]
+    zh: [企鹅]
+  name: penguin
+- lang:
+    en: [penguin behind rocks]
+    zh: [岩石后面企鹅]
+  name: penguin_behind_rocks
