@@ -121,7 +121,7 @@ image_label_binary:
   name: whole_glass_bottle
 - lang:
     en: [teacup with similar porcelain design pattern]
-    zh: [类似瓷器设]
+    zh: [类似瓷器设, 类似瓷器设计图案的茶杯]
   name: porcelain_teacup
 - lang:
     en: [fish jumping over the water]
