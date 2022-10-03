@@ -223,3 +223,7 @@ image_label_binary:
     en: [penguin behind rocks]
     zh: [岩石后面企鹅]
   name: penguin_behind_rocks
+- lang:
+    en: [house in the beach]
+    zh: []
+  name: house_in_the_beach
