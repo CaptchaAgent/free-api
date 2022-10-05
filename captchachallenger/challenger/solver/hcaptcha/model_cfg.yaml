@@ -225,5 +225,13 @@ image_label_binary:
   name: penguin_behind_rocks
 - lang:
     en: [house in the beach]
-    zh: []
+    zh: [海滩上的房子]
   name: house_in_the_beach
+- lang:
+    en: [penguin on ice]
+    zh: [冰上企鹅]
+  name: penguin_on_ice
+- lang:
+    en: [cactus in the sand]
+    zh: [沙滩上的仙人掌]
+  name: cactus_in_the_sand
