@@ -235,3 +235,7 @@ image_label_binary:
     en: [cactus in the sand]
     zh: [沙滩上的仙人掌]
   name: cactus_in_the_sand
+- lang:
+    en: [cactus in a pot]
+    zh: [花盆中的仙人掌, 花盆仙人掌]
+  name: cactus_in_a_pot
