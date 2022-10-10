@@ -225,7 +225,7 @@ image_label_binary:
   name: penguin_behind_rocks
 - lang:
     en: [house in the beach]
-    zh: [海滩上的房子]
+    zh: [海滩上的房子, 海滩房屋]
   name: house_in_the_beach
 - lang:
     en: [penguin on ice]
@@ -233,9 +233,21 @@ image_label_binary:
   name: penguin_on_ice
 - lang:
     en: [cactus in the sand]
-    zh: [沙滩上的仙人掌]
+    zh: [沙滩上的仙人掌, 沙中仙人掌]
   name: cactus_in_the_sand
 - lang:
     en: [cactus in a pot]
     zh: [盆中仙人掌]
   name: cactus_in_a_pot
+- lang:
+    en: [bee flying near a flower]
+    zh: [蜜蜂在花朵附近飞翔]
+  name: bee_flying_near_a_flower
+- lang:
+    en: [item that a person normally wears on their head]
+    zh: [人们通常戴在头上的物品, 人们通常戴在头上]
+  name: hat
+- lang:
+    en: [dangerous sea]
+    zh: [危险海]
+  name: dangerous_sea
