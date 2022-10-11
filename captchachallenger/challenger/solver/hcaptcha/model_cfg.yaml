@@ -249,5 +249,9 @@ image_label_binary:
   name: hat
 - lang:
     en: [dangerous sea]
-    zh: [危险海]
+    zh: [危险海域]
   name: dangerous_sea
+- lang:
+    en: [hot food]
+    zh: [热食]
+  name: hot_food
