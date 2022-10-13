@@ -248,9 +248,21 @@ image_label_binary:
     zh: [人们通常戴在头上的物品, 人们通常戴在头上]
   name: hat
 - lang:
+    en: [item that a person normally wears on their feet]
+    zh: [人们通常脚上穿着的物品]
+  name: shoes
+- lang:
+    en: [item that a person usually wear on their waist]
+    zh: [人们通常穿在腰上的物品]
+  name: belt
+- lang:
     en: [dangerous sea]
     zh: [危险海域]
   name: dangerous_sea
+- lang:
+    en: [calm sea]
+    zh: [平静海域, 平静的大海]
+  name: calm_sea
 - lang:
     en: [hot food]
     zh: [热食]
