@@ -252,8 +252,8 @@ image_label_binary:
     zh: [人们通常脚上穿着的物品]
   name: shoes
 - lang:
-    en: [item that a person usually wear on their waist]
-    zh: [人们通常穿在腰上的物品]
+    en: [item that a person normally wears on their pants]
+    zh: [人们通常穿在裤子上的物品]
   name: belt
 - lang:
     en: [dangerous sea]
