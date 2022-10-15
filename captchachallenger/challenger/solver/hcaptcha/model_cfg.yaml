@@ -267,3 +267,7 @@ image_label_binary:
     en: [hot food]
     zh: [热食]
   name: hot_food
+- lang:
+    en: [cold drink, glass with ice]
+    zh: [冷饮, 玻璃加冰]
+  name: cold_drink
