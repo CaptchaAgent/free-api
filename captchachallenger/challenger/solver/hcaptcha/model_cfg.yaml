@@ -271,3 +271,7 @@ image_label_binary:
     en: [cold drink, glass with ice]
     zh: [冷饮, 玻璃加冰]
   name: cold_drink
+- lang:
+    en: [jellyfish]
+    zh: [水母]
+  name: jellyfish
