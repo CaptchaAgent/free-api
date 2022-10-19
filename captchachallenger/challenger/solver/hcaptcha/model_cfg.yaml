@@ -257,11 +257,11 @@ image_label_binary:
   name: belt
 - lang:
     en: [dangerous sea]
-    zh: [危险海域]
+    zh: [危险海域, 危险海洋]
   name: dangerous_sea
 - lang:
     en: [calm sea]
-    zh: [平静海域, 平静的大海]
+    zh: [平静海域, 平静海洋]
   name: calm_sea
 - lang:
     en: [hot food]
@@ -275,3 +275,7 @@ image_label_binary:
     en: [jellyfish]
     zh: [水母]
   name: jellyfish
+- lang:
+    en: [cup_of_coffee]
+    zh: [一杯咖啡]
+  name: cup_of_coffee
