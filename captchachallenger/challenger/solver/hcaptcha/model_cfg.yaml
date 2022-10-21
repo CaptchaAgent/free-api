@@ -108,8 +108,8 @@ image_label_binary:
     zh: [一只飞翔的鸟]
   name: bird_flying
 - lang:
-    en: [bird on a branch]
-    zh: [树枝上的鸟]
+    en: [bird on a branch, hummingbird on a tree branch]
+    zh: [树枝上的鸟, 一只蜂鸟在树枝上]
   name: bird_on_a_branch
 - lang:
     en: [broken glass bottle]
@@ -269,7 +269,7 @@ image_label_binary:
   name: hot_food
 - lang:
     en: [cold drink, glass with ice]
-    zh: [冷饮, 玻璃加冰]
+    zh: [冷饮, 冰杯]
   name: cold_drink
 - lang:
     en: [jellyfish]
