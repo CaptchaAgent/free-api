@@ -261,7 +261,7 @@ image_label_binary:
   name: dangerous_sea
 - lang:
     en: [calm sea]
-    zh: [平静海域, 平静海洋]
+    zh: [平静海域, 平静海洋, 平静海面]
   name: calm_sea
 - lang:
     en: [hot food]
@@ -275,6 +275,10 @@ image_label_binary:
     en: [jellyfish]
     zh: [水母]
   name: jellyfish
+- lang:
+    en: [shark]
+    zh: [鲨鱼]
+  name: shark
 - lang:
     en: [cup_of_coffee]
     zh: [一杯咖啡]
