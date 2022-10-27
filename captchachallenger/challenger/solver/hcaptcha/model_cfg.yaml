@@ -12,7 +12,7 @@ image_label_binary:
     zh: [桥梁]
   name: bridge
 - lang:
-    en: [domestic cat, cat]
+    en: [domestic cat, cat, Select all cat pictures.]
     zh: [家猫, 猫]
   name: domestic_cat
 - lang:
@@ -287,3 +287,11 @@ image_label_binary:
     en: [cup of coffee]
     zh: [一杯咖啡]
   name: cup_of_coffee
+- lang:
+    en: [starfish]
+    zh: [海星]
+  name: starfish
+- lang:
+    en: [duck behind rocks]
+    zh: [鸭子在岩石后面, 岩石后面鸭子]
+  name: duck_behind_rocks
