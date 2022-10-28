@@ -295,3 +295,7 @@ image_label_binary:
     en: [duck behind rocks]
     zh: [鸭子在岩石后面, 岩石后面鸭子]
   name: duck_behind_rocks
+- lang:
+    en: [strawberry cake]
+    zh: [草莓蛋糕]
+  name: strawberry_cake
