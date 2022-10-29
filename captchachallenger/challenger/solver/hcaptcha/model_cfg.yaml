@@ -299,3 +299,15 @@ image_label_binary:
     en: [strawberry cake]
     zh: [草莓蛋糕]
   name: strawberry_cake
+- lang:
+    en: [cupcake]
+    zh: [纸杯蛋糕]
+  name: cupcake
+- lang:
+    en: [bowl of pasta]
+    zh: [一碗意大利面]
+  name: bowl_of_pasta
+- lang:
+    en: [carved pumpkin with a face]
+    zh: [带有面部的雕刻南瓜]
+  name: carved_pumpkin_with_a_face
