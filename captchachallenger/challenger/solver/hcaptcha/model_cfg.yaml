@@ -311,3 +311,11 @@ image_label_binary:
     en: [carved pumpkin with a face]
     zh: [带有面部的雕刻南瓜]
   name: carved_pumpkin_with_a_face
+- lang:
+    en: [skeleton ridding a bicycle]
+    zh: [骑自行车的骷髅]
+  name: skeleton_ridding_a_bicycle
+- lang:
+    en: [orange fruit]
+    zh: [橙色水果]
+  name: orange_fruit
