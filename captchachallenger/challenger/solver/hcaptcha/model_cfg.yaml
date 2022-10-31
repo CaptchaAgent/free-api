@@ -319,3 +319,15 @@ image_label_binary:
     en: [orange fruit]
     zh: [橙色水果]
   name: orange_fruit
+- lang:
+    en: [drawing of a haunted house]
+    zh: [鬼屋的图画]
+  name: drawing_of_a_haunted_house
+- lang:
+    en: [ghost riding a bicycle]
+    zh: [骑自行车的鬼魂]
+  name: ghost_riding_a_bicycle
+- lang:
+    en: [flying bat]
+    zh: [飞行蝙蝠, 一只飞翔的蝙蝠]
+  name: flying_bat
