@@ -164,10 +164,6 @@ image_label_binary:
     zh: [草丛中包含兔子]
   name: rabbit_in_the_grass
 - lang:
-    en: [rabbit]
-    zh: [兔子]
-  name: rabbit
-- lang:
     en: [rabbit swimming in water]
     zh: [兔子在水中游泳]
   name: rabbit_swimming_in_water
@@ -312,7 +308,7 @@ image_label_binary:
     zh: [带有面部的雕刻南瓜]
   name: carved_pumpkin_with_a_face
 - lang:
-    en: [skeleton ridding a bicycle]
+    en: [skeleton ridding a bicycle, skeleton riding a bicycle]
     zh: [骑自行车的骷髅]
   name: skeleton_ridding_a_bicycle
 - lang:
@@ -331,3 +327,11 @@ image_label_binary:
     en: [flying bat]
     zh: [飞行蝙蝠, 一只飞翔的蝙蝠]
   name: flying_bat
+- lang:
+    en: [rabbit]
+    zh: [兔子]
+  name: rabbit_blur
+- lang:
+    en: [black cat in a forest]
+    zh: [森林中的黑猫]
+  name: black_cat_in_a_forest
