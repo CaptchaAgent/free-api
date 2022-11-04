@@ -252,7 +252,7 @@ image_label_binary:
     zh: [人们通常穿在裤子上的物品]
   name: belt
 - lang:
-    en: [dangerous sea]
+    en: [dangerous sea, rough sea]
     zh: [危险海域, 危险海洋]
   name: dangerous_sea
 - lang:
@@ -317,11 +317,11 @@ image_label_binary:
   name: orange_fruit
 - lang:
     en: [drawing of a haunted house]
-    zh: [鬼屋的图画]
+    zh: [鬼屋的图画, 鬼屋图画]
   name: drawing_of_a_haunted_house
 - lang:
     en: [ghost riding a bicycle]
-    zh: [骑自行车的鬼魂]
+    zh: [骑自行车的鬼魂, 鬼骑自行车]
   name: ghost_riding_a_bicycle
 - lang:
     en: [flying bat]
@@ -335,3 +335,11 @@ image_label_binary:
     en: [black cat in a forest]
     zh: [森林中的黑猫]
   name: black_cat_in_a_forest
+- lang:
+    en: [chocolate cake]
+    zh: [巧克力蛋糕]
+  name: chocolate_cake
+- lang:
+    en: [oranges in a basket, lease click each image containing oranges in a basket]
+    zh: [篮子中的橙子, 篮子中橙子]
+  name: oranges_in_a_basket
