@@ -32,10 +32,6 @@ image_label_binary:
     zh: [鹦鹉]
   name: parrot
 - lang:
-    en: [lion]
-    zh: [狮子]
-  name: lion
-- lang:
     en: [lion with mane on its neck, male lion]
     zh: [一只脖子上有鬃毛的狮子, 雄狮]
   name: lion_with_mane_on_its_neck
@@ -343,3 +339,19 @@ image_label_binary:
     en: [oranges in a basket, lease click each image containing oranges in a basket]
     zh: [篮子中的橙子, 篮子中橙子]
   name: oranges_in_a_basket
+- lang:
+    en: [horse]
+    zh: [一匹马]
+  name: horse_mask
+- lang:
+    en: [lion]
+    zh: [狮子]
+  name: lion_mask
+- lang:
+    en: [lemons in a basket, lease click each image containing lemons in a basket]
+    zh: [篮子中柠檬, 篮子中的柠檬]
+  name: lemons_in_a_basket
+- lang:
+    en: [lemon]
+    zh: [柠檬]
+  name: lemon
