@@ -355,3 +355,15 @@ image_label_binary:
     en: [lemon]
     zh: [柠檬]
   name: lemon
+- lang:
+    en: [ant]
+    zh: [蚂蚁]
+  name: ant
+- lang:
+    en: [pancake]
+    zh: [煎饼]
+  name: pancake
+- lang:
+    en: [ice cream]
+    zh: [冰淇淋]
+  name: icecream
