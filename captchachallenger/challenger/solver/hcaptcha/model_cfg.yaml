@@ -367,3 +367,7 @@ image_label_binary:
     en: [ice cream]
     zh: [冰淇淋]
   name: icecream
+- lang:
+    en: [cake]
+    zh: [蛋糕]
+  name: cake
