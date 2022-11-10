@@ -249,7 +249,7 @@ image_label_binary:
   name: belt
 - lang:
     en: [dangerous sea, rough sea]
-    zh: [危险海域, 危险海洋]
+    zh: [危险海域, 危险海洋, 波涛汹涌的大海]
   name: dangerous_sea
 - lang:
     en: [calm sea]
