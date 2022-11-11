@@ -356,10 +356,6 @@ image_label_binary:
     zh: [柠檬]
   name: lemon
 - lang:
-    en: [ant]
-    zh: [蚂蚁]
-  name: ant
-- lang:
     en: [pancake]
     zh: [煎饼]
   name: pancake
@@ -371,3 +367,23 @@ image_label_binary:
     en: [cake]
     zh: [蛋糕]
   name: cake
+- lang:
+    en: [hot air balloon]
+    zh: [热气球]
+  name: hot_air_balloon
+- lang:
+    en: [helicopter]
+    zh: [直升机]
+  name: helicopter
+- lang:
+    en: [ant]
+    zh: [蚂蚁]
+  name: ant
+- lang:
+    en: [dragonfly]
+    zh: [蜻蜓]
+  name: dragonfly
+- lang:
+    en: [ladybug, ladybug with seven stars]
+    zh: [七星瓢虫, 瓢虫]
+  name: ladybug
