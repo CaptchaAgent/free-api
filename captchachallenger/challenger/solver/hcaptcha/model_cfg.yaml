@@ -387,3 +387,11 @@ image_label_binary:
     en: [ladybug, ladybug with seven stars]
     zh: [七星瓢虫, 瓢虫]
   name: ladybug
+- lang:
+    en: [chicken on the beach]
+    zh: [每张海滩上包含一只鸡的图片]
+  name: chicken_on_a_tree
+- lang:
+    en: [chicken on a tree]
+    zh: [树上的鸡]
+  name: chicken_on_the_beach
