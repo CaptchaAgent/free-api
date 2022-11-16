@@ -292,7 +292,7 @@ image_label_binary:
     zh: [草莓蛋糕]
   name: strawberry_cake
 - lang:
-    en: [cupcake]
+    en: [cupcake, curcake, cupsake, subcake]
     zh: [纸杯蛋糕]
   name: cupcake
 - lang:
@@ -390,8 +390,16 @@ image_label_binary:
 - lang:
     en: [chicken on the beach]
     zh: [每张海滩上包含一只鸡的图片]
-  name: chicken_on_a_tree
+  name: chicken_on_the_beach
 - lang:
     en: [chicken on a tree]
     zh: [树上的鸡]
-  name: chicken_on_the_beach
+  name: chicken_on_a_tree
+- lang:
+    en: [hedgehog in a bowl]
+    zh: [碗中刺猬]
+  name: hedgehog_in_a_bowl
+- lang:
+    en: [squirrel on a tree]
+    zh: [树上松鼠]
+  name: squirrel_on_a_tree
