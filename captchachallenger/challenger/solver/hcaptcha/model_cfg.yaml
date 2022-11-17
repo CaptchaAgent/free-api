@@ -389,7 +389,7 @@ image_label_binary:
   name: ladybug
 - lang:
     en: [chicken on the beach]
-    zh: [每张海滩上包含一只鸡的图片]
+    zh: [每张海滩上包含一只鸡的图片, 沙滩上的鸡]
   name: chicken_on_the_beach
 - lang:
     en: [chicken on a tree]
@@ -403,3 +403,7 @@ image_label_binary:
     en: [squirrel on a tree]
     zh: [树上松鼠]
   name: squirrel_on_a_tree
+- lang:
+    en: [crab]
+    zh: [螃蟹]
+  name: crab
