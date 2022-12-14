@@ -407,3 +407,39 @@ image_label_binary:
     en: [crab]
     zh: [螃蟹]
   name: crab
+- lang:
+    en: [toy penguin]
+    zh: [玩具企鹅]
+  name: toy_penguin
+- lang:
+    en: [squirrel]
+    zh: [松鼠]
+  name: squirrel
+- lang:
+    en: [hedgehog surrounded by flowers]
+    zh: [被鲜花包围的刺猬]
+  name: hedgehog_surrounded_by_flowers
+- lang:
+    en: [butterfly]
+    zh: [蝴蝶]
+  name: butterfly
+- lang:
+    en: [apple on a tree]
+    zh: [树上苹果]
+  name: apple_on_a_tree
+- lang:
+    en: [strawberry in a basket]
+    zh: [篮子里的草莓]
+  name: strawberry_in_a_basket
+- lang:
+    en: [daisy]
+    zh: [雏菊]
+  name: daisy
+- lang:
+    en: [hedgehog in water]
+    zh: [水中刺猬]
+  name: hedgehog_in_water
+- lang:
+    en: [pineapple]
+    zh: [菠萝]
+  name: pineapple
