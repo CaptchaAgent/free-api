@@ -443,3 +443,11 @@ image_label_binary:
     en: [pineapple]
     zh: [菠萝]
   name: pineapple
+- lang:
+    en: [panda]
+    zh: [熊猫]
+  name: panda
+- lang:
+    en: [dolphin]
+    zh: [海豚]
+  name: dolphin
