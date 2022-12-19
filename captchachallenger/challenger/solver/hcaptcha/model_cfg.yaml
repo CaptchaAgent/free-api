@@ -451,3 +451,7 @@ image_label_binary:
     en: [dolphin]
     zh: [海豚]
   name: dolphin
+- lang:
+    en: [tulip]
+    zh: [郁金香]
+  name: tulip
