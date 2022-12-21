@@ -455,3 +455,7 @@ image_label_binary:
     en: [tulip]
     zh: [郁金香]
   name: tulip
+- lang:
+    en: [hedgehog on rocks]
+    zh: [刺猬在岩石上]
+  name: hedgehog_on_rocks
