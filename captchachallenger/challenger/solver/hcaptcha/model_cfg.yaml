@@ -459,3 +459,11 @@ image_label_binary:
     en: [hedgehog on rocks]
     zh: [刺猬在岩石上]
   name: hedgehog_on_rocks
+- lang:
+    en: [sea otter]
+    zh: [海獭]
+  name: sea_otter
+- lang:
+    en: [rose]
+    zh: [玫瑰]
+  name: rose
