@@ -384,7 +384,7 @@ image_label_binary:
     zh: [蜻蜓]
   name: dragonfly
 - lang:
-    en: [ladybug, ladybug with seven stars]
+    en: [ladybug]
     zh: [七星瓢虫, 瓢虫]
   name: ladybug
 - lang:
@@ -467,3 +467,11 @@ image_label_binary:
     en: [rose]
     zh: [玫瑰]
   name: rose
+- lang:
+    en: [sunflower]
+    zh: [向日葵]
+  name: sunflower
+- lang:
+    en: [panda in a living room]
+    zh: [熊猫在客厅]
+  name: panda_in_a_living_room
