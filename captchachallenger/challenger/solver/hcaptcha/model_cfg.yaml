@@ -479,3 +479,7 @@ image_label_binary:
     en: [residential house]
     zh: [住宅]
   name: residential_house
+- lang:
+    en: [tall building]
+    zh: [高层建筑]
+  name: tall_building
