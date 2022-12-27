@@ -475,3 +475,7 @@ image_label_binary:
     en: [panda in a living room]
     zh: [熊猫在客厅]
   name: panda_in_a_living_room
+- lang:
+    en: [residential house]
+    zh: [住宅]
+  name: residential_house
