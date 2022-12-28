@@ -483,3 +483,7 @@ image_label_binary:
     en: [tall building]
     zh: [高层建筑]
   name: tall_building
+- lang:
+    en: [piano]
+    zh: [钢琴]
+  name: piano
