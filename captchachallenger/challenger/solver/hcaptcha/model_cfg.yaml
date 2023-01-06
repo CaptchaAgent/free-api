@@ -491,3 +491,7 @@ image_label_binary:
     en: [cymbal]
     zh: [铙钹]
   name: cymbal
+- lang:
+    en: [lease click each image containing red roses in a garden, red roses in a garden]
+    zh: [花园中红玫瑰]
+  name: red_roses_in_a_garden
