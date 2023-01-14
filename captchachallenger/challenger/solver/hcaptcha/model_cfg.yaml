@@ -495,3 +495,7 @@ image_label_binary:
     en: [lease click each image containing red roses in a garden, red roses in a garden]
     zh: [花园中红玫瑰]
   name: red_roses_in_a_garden
+- lang:
+    en: [panda in a forest]
+    zh: [森林中熊猫]
+  name: panda_in_a_forest
