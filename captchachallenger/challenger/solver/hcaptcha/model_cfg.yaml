@@ -499,3 +499,7 @@ image_label_binary:
     en: [panda in a forest]
     zh: [森林中熊猫]
   name: panda_in_a_forest
+- lang:
+    en: [desert]
+    zh: [沙漠]
+  name: desert
