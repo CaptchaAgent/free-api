@@ -493,13 +493,21 @@ image_label_binary:
   name: cymbal
 - lang:
     en: [lease click each image containing red roses in a garden, red roses in a garden]
-    zh: [花园中红玫瑰]
+    zh: [花园中红玫瑰, 花园中的红玫瑰]
   name: red_roses_in_a_garden
 - lang:
     en: [panda in a forest]
-    zh: [森林中熊猫]
+    zh: [森林中熊猫, 森林中的熊猫]
   name: panda_in_a_forest
 - lang:
     en: [desert]
     zh: [沙漠]
   name: desert
+- lang:
+    en: [sunflowers in a field]
+    zh: [田野中向日葵]
+  name: sunflowers_in_a_field
+- lang:
+    en: [mountain]
+    zh: [山]
+  name: mountain
