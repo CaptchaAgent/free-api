@@ -523,3 +523,7 @@ image_label_binary:
     en: [panda in a garden]
     zh: [花园中熊猫]
   name: panda_in_a_garden
+- lang:
+    en: [violin]
+    zh: [小提琴]
+  name: violin
