@@ -527,3 +527,11 @@ image_label_binary:
     en: [violin]
     zh: [小提琴]
   name: violin
+- lang:
+    en: [beach]
+    zh: [海滩]
+  name: beach
+- lang:
+    en: [trumpet]
+    zh: [喇叭]
+  name: trumpet
