@@ -535,3 +535,11 @@ image_label_binary:
     en: [trumpet]
     zh: [喇叭]
   name: trumpet
+- lang:
+    en: [pineapple on pizza]
+    zh: [披萨上菠萝]
+  name: pineapple_on_pizza
+- lang:
+    en: [fried egg on a bread]
+    zh: [面包上煎蛋]
+  name: fried_egg_on_a_bread
