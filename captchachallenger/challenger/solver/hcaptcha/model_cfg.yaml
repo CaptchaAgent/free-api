@@ -543,3 +543,7 @@ image_label_binary:
     en: [fried egg on a bread]
     zh: [面包上煎蛋]
   name: fried_egg_on_a_bread
+- lang:
+    en: [tulips in a vase]
+    zh: [花瓶里的郁金香]
+  name: tulips_in_a_vase
