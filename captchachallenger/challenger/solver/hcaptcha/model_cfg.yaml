@@ -547,3 +547,7 @@ image_label_binary:
     en: [tulips in a vase]
     zh: [花瓶里的郁金香]
   name: tulips_in_a_vase
+- lang:
+    en: [guitar]
+    zh: [吉他]
+  name: guitar
