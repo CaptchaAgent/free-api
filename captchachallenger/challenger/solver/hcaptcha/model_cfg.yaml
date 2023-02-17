@@ -551,3 +551,11 @@ image_label_binary:
     en: [guitar]
     zh: [吉他]
   name: guitar
+- lang:
+    en: [panda in water]
+    zh: [水中的熊猫]
+  name: panda_in_water
+- lang:
+    en: [ocean]
+    zh: [海洋]
+  name: ocean
