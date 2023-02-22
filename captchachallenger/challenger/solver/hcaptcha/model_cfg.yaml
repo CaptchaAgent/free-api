@@ -559,3 +559,15 @@ image_label_binary:
     en: [ocean]
     zh: [海洋]
   name: ocean
+- lang:
+    en: [hand watches]
+    zh: [手表]
+  name: hand_watches
+- lang:
+    en: [bear in the water]
+    zh: [熊在水里]
+  name: bear_in_the_water
+- lang:
+    en: [hockey match]
+    zh: [曲棍球比赛]
+  name: hockey_match
