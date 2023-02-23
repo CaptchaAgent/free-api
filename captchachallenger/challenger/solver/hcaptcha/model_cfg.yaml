@@ -571,3 +571,19 @@ image_label_binary:
     en: [hockey match]
     zh: [曲棍球比赛]
   name: hockey_match
+- lang:
+    en: [soccer ball]
+    zh: [足球]
+  name: soccer_ball
+- lang:
+    en: [hamster]
+    zh: [仓鼠]
+  name: hamster
+- lang:
+    en: [tractor]
+    zh: [拖拉机]
+  name: tractor
+- lang:
+    en: [panda wearing glasses]
+    zh: [戴眼镜的熊猫]
+  name: panda_wearing_glasses
