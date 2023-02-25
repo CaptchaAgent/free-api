@@ -587,3 +587,7 @@ image_label_binary:
     en: [panda wearing glasses]
     zh: [戴眼镜的熊猫]
   name: panda_wearing_glasses
+- lang:
+    en: [cow in its natural environment]
+    zh: [母牛在其自然环境中]
+  name: cow_in_its_natural_environment
