@@ -591,3 +591,7 @@ image_label_binary:
     en: [cow in its natural environment]
     zh: [母牛在其自然环境中]
   name: cow_in_its_natural_environment
+- lang:
+    en: [someone playing football]
+    zh: [有人踢足球]
+  name: someone_playing_football
