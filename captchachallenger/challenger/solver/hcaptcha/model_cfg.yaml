@@ -595,3 +595,7 @@ image_label_binary:
     en: [someone playing football]
     zh: [有人踢足球]
   name: someone_playing_football
+- lang:
+    en: [robot]
+    zh: [机器人]
+  name: robot
