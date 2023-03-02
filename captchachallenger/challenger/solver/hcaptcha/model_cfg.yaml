@@ -589,7 +589,7 @@ image_label_binary:
   name: panda_wearing_glasses
 - lang:
     en: [cow in its natural environment]
-    zh: [母牛在其自然环境中]
+    zh: [母牛在其自然环境中, 自然环境中的奶牛]
   name: cow_in_its_natural_environment
 - lang:
     en: [someone playing football]
@@ -599,3 +599,7 @@ image_label_binary:
     en: [robot]
     zh: [机器人]
   name: robot
+- lang:
+    en: [hallway]
+    zh: [门厅]
+  name: hallway
