@@ -607,3 +607,11 @@ image_label_binary:
     en: [hallway]
     zh: [门厅]
   name: hallway
+- lang:
+    en: [car tire]
+    zh: [汽车轮胎]
+  name: car_tire
+- lang:
+    en: [very fast car]
+    zh: [非常快的车]
+  name: very_fast_car
