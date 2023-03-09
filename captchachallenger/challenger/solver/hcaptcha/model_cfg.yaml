@@ -84,6 +84,10 @@ image_label_binary:
     zh: [一条脖子上有项圈的狗]
   name: dog_with_a_collar_on_its_neck
 - lang:
+    en: [dog wearing sunglasses]
+    zh: [戴墨镜的狗]
+  name: dog_wearing_sunglasses
+- lang:
     en: [kitten, baby cat]
     zh: [小猫, 一只小猫]
   name: kitten
@@ -615,3 +619,7 @@ image_label_binary:
     en: [very fast car]
     zh: [非常快的车]
   name: very_fast_car
+- lang:
+    en: [dog t-shirt]
+    zh: [狗T恤]
+  name: dog_t_shirt
