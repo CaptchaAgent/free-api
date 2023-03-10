@@ -623,3 +623,11 @@ image_label_binary:
     en: [dog t-shirt]
     zh: [狗T恤]
   name: dog_t_shirt
+- lang:
+    en: [bunny]
+    zh: [兔子]
+  name: bunny
+- lang:
+    en: [bowling ball]
+    zh: [保龄球]
+  name: bowling_ball
