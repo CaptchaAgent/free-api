@@ -631,3 +631,11 @@ image_label_binary:
     en: [bowling ball]
     zh: [保龄球]
   name: bowling_ball
+- lang:
+    en: [basketball]
+    zh: [篮球]
+  name: basketball
+- lang:
+    en: [alarm clock]
+    zh: [闹钟]
+  name: alarm_clock
