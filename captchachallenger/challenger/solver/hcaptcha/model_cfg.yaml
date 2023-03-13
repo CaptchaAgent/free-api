@@ -639,3 +639,7 @@ image_label_binary:
     en: [alarm clock]
     zh: [闹钟]
   name: alarm_clock
+- lang:
+    en: [bird sitting in a tree]
+    zh: [坐在树上的鸟]
+  name: bird_sitting_in_a_tree
