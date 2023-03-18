@@ -643,3 +643,7 @@ image_label_binary:
     en: [bird sitting in a tree]
     zh: [坐在树上的鸟]
   name: bird_sitting_in_a_tree
+- lang:
+    en: [egg on a plate]
+    zh: [盘子里的鸡蛋]
+  name: egg_on_a_plate
