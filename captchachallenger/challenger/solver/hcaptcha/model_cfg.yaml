@@ -647,3 +647,19 @@ image_label_binary:
     en: [egg on a plate]
     zh: [盘子里的鸡蛋]
   name: egg_on_a_plate
+- lang:
+    en: [someone playing golf]
+    zh: [有人打高尔夫球]
+  name: someone_playing_golf
+- lang:
+    en: [someone playing hockey]
+    zh: [有人打曲棍球]
+  name: someone_playing_hockey
+- lang:
+    en: [steering wheel]
+    zh: [方向盘]
+  name: steering_wheel
+- lang:
+    en: [sunny sky]
+    zh: [晴空]
+  name: sunny_sky
