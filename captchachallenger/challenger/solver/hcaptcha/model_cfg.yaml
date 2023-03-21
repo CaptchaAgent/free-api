@@ -645,15 +645,15 @@ image_label_binary:
   name: bird_sitting_in_a_tree
 - lang:
     en: [egg on a plate]
-    zh: [盘子里的鸡蛋]
+    zh: [盘子里的鸡蛋, 盘子上的鸡蛋]
   name: egg_on_a_plate
 - lang:
     en: [someone playing golf]
-    zh: [有人打高尔夫球]
+    zh: [有人打高尔夫球, 打高尔夫球]
   name: someone_playing_golf
 - lang:
     en: [someone playing hockey]
-    zh: [有人打曲棍球]
+    zh: [有人打曲棍球, 打曲棍球]
   name: someone_playing_hockey
 - lang:
     en: [steering wheel]
