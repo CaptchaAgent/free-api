@@ -636,6 +636,10 @@ image_label_binary:
     zh: [篮球]
   name: basketball
 - lang:
+    en: [tennis ball]
+    zh: [网球]
+  name: tennis_ball
+- lang:
     en: [alarm clock]
     zh: [闹钟]
   name: alarm_clock
@@ -663,3 +667,7 @@ image_label_binary:
     en: [sunny sky]
     zh: [晴空]
   name: sunny_sky
+- lang:
+    en: [planet]
+    zh: [行星]
+  name: planet
