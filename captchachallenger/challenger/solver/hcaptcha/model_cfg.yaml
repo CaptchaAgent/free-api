@@ -624,6 +624,10 @@ image_label_binary:
     zh: [狗T恤]
   name: dog_t_shirt
 - lang:
+    en: [cat t-shirt]
+    zh: [猫T恤]
+  name: cat_t_shirt
+- lang:
     en: [bunny]
     zh: [兔子]
   name: bunny
@@ -639,6 +643,10 @@ image_label_binary:
     en: [tennis ball]
     zh: [网球]
   name: tennis_ball
+- lang:
+    en: [rugby ball]
+    zh: [橄榄球]
+  name: rugby_ball
 - lang:
     en: [alarm clock]
     zh: [闹钟]
