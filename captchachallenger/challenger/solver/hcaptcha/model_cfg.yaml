@@ -679,3 +679,15 @@ image_label_binary:
     en: [planet]
     zh: [行星]
   name: planet
+- lang:
+    en: [baseball match]
+    zh: [棒球比赛]
+  name: baseball_match
+- lang:
+    en: [cat wearing a pirate hat]
+    zh: [戴着海盗帽的猫]
+  name: cat_wearing_a_pirate_hat
+- lang:
+    en: [hot dog]
+    zh: [热狗]
+  name: hot_dog
