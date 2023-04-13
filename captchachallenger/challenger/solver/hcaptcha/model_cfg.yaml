@@ -707,3 +707,7 @@ image_label_binary:
     en: [camera]
     zh: [相机]
   name: camera
+- lang:
+    en: [kettle]
+    zh: [壶]
+  name: kettle
