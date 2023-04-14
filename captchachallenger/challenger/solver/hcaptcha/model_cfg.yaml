@@ -711,3 +711,23 @@ image_label_binary:
     en: [kettle]
     zh: [壶]
   name: kettle
+- lang:
+    en: [potatoes]
+    zh: [土豆]
+  name: potatoes
+- lang:
+    en: [donut]
+    zh: [油炸圈饼]
+  name: donut
+- lang:
+    en: [cabbage]
+    zh: [卷心菜]
+  name: cabbage
+- lang:
+    en: [headphones]
+    zh: [耳机]
+  name: headphones
+- lang:
+    en: [vinyl]
+    zh: [乙烯基塑料]
+  name: vinyl
