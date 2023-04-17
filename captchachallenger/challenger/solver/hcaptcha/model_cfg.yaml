@@ -731,3 +731,7 @@ image_label_binary:
     en: [vinyl]
     zh: [乙烯基塑料]
   name: vinyl
+- lang:
+    en: ['telescope ']
+    zh: [望远镜]
+  name: telescope
