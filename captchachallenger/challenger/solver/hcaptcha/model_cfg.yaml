@@ -735,3 +735,15 @@ image_label_binary:
     en: ['telescope ']
     zh: [望远镜]
   name: telescope
+- lang:
+    en: [freeway]
+    zh: [高速公路]
+  name: freeway
+- lang:
+    en: [electricity pylon]
+    zh: [电塔]
+  name: electricity_pylon
+- lang:
+    en: [roast chicken]
+    zh: [烤鸡]
+  name: roast_chicken
