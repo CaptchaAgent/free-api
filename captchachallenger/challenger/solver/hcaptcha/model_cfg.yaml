@@ -747,3 +747,11 @@ image_label_binary:
     en: [roast chicken]
     zh: [烤鸡]
   name: roast_chicken
+- lang:
+    en: [ladder]
+    zh: [梯子]
+  name: ladder
+- lang:
+    en: [factory with chimney]
+    zh: [有烟囱的工厂]
+  name: factory_with_chimney
