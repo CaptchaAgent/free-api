@@ -728,10 +728,6 @@ image_label_binary:
     zh: [耳机]
   name: headphones
 - lang:
-    en: [vinyl]
-    zh: [乙烯基塑料]
-  name: vinyl
-- lang:
     en: ['telescope ']
     zh: [望远镜]
   name: telescope
@@ -755,3 +751,23 @@ image_label_binary:
     en: [factory with chimney]
     zh: [有烟囱的工厂]
   name: factory_with_chimney
+- lang:
+    en: [microwave]
+    zh: [微波炉, 微波]
+  name: microwave
+- lang:
+    en: [vinyl]
+    zh: [乙烯基塑料, 黑胶唱片, 乙烯基]
+  name: vinyl
+- lang:
+    en: [lighthouse]
+    zh: [灯塔, 瞭望塔]
+  name: lighthouse
+- lang:
+    en: [popcorn]
+    zh: [爆米花]
+  name: popcorn
+- lang:
+    en: [refrigerator]
+    zh: [冰箱]
+  name: refrigerator
