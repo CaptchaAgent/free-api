@@ -771,3 +771,15 @@ image_label_binary:
     en: [refrigerator]
     zh: [冰箱]
   name: refrigerator
+- lang:
+    en: [electric_scooter]
+    zh: [电动滑板车]
+  name: electric_scooter
+- lang:
+    en: [hummingbird]
+    zh: [蜂鸟]
+  name: hummingbird
+- lang:
+    en: [treadmill]
+    zh: [跑步机]
+  name: treadmill
