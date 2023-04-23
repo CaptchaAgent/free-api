@@ -783,3 +783,7 @@ image_label_binary:
     en: [treadmill]
     zh: [跑步机]
   name: treadmill
+- lang:
+    en: [smartphone]
+    zh: [智能手机]
+  name: smartphone
