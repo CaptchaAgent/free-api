@@ -787,3 +787,15 @@ image_label_binary:
     en: [smartphone]
     zh: [智能手机]
   name: smartphone
+- lang:
+    en: [lamp]
+    zh: [灯]
+  name: lamp
+- lang:
+    en: [console controller]
+    zh: [控制台控制器]
+  name: console_controller
+- lang:
+    en: [drone]
+    zh: [无人机]
+  name: drone
