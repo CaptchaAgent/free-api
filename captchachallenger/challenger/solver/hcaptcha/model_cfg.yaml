@@ -799,3 +799,19 @@ image_label_binary:
     en: [drone]
     zh: [无人机]
   name: drone
+- lang:
+    en: [drum]
+    zh: [鼓]
+  name: drum
+- lang:
+    en: [computer keyboard]
+    zh: [计算机键盘]
+  name: computer_keyboard
+- lang:
+    en: [dart board]
+    zh: [飞镖盘]
+  name: dart_board
+- lang:
+    en: [bicycle]
+    zh: [自行车]
+  name: bicycle
