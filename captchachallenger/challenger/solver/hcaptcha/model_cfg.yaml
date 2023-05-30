@@ -815,3 +815,35 @@ image_label_binary:
     en: [bicycle]
     zh: [自行车]
   name: bicycle
+- lang:
+    en: [knife]
+    zh: [刀]
+  name: knife
+- lang:
+    en: [typewriter]
+    zh: [打字机]
+  name: typewriter
+- lang:
+    en: [monitor]
+    zh: [监视器]
+  name: monitor
+- lang:
+    en: [microscope]
+    zh: [显微镜]
+  name: microscope
+- lang:
+    en: [trash bin]
+    zh: [垃圾桶]
+  name: trash_bin
+- lang:
+    en: [hourglass]
+    zh: [滴漏]
+  name: hourglass
+- lang:
+    en: [dumbbell]
+    zh: [哑铃]
+  name: dumbbell
+- lang:
+    en: [surfboard]
+    zh: [冲浪板]
+  name: surfboard
