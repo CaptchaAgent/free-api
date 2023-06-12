@@ -847,3 +847,19 @@ image_label_binary:
     en: [surfboard]
     zh: [冲浪板]
   name: surfboard
+- lang:
+    en: [papaya]
+    zh: [木瓜]
+  name: papaya
+- lang:
+    en: [film reel]
+    zh: [电影卷轴]
+  name: film_reel
+- lang:
+    en: [car]
+    zh: [车]
+  name: car
+- lang:
+    en: [motor vehicle]
+    zh: [摩托车]
+  name: motor_vehicle
