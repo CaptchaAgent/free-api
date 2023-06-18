@@ -863,3 +863,7 @@ image_label_binary:
     en: [motor vehicle]
     zh: [摩托车]
   name: motor_vehicle
+- lang:
+    en: [animal]
+    zh: [动物]
+  name: animal
