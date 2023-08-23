@@ -1,9 +1,5 @@
 image_label_binary:
 - lang:
-    en: [dolphin]
-    zh: [海豚]
-  name: dolphin
-- lang:
     en: [diamond bracelet]
     zh: [钻石手链]
   name: diamond_bracelet
