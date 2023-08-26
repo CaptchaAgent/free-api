@@ -23,3 +23,7 @@ image_label_binary:
     en: [headphones]
     zh: [耳机]
   name: headphones
+- lang:
+    en: [musical instrument]
+    zh: [乐器]
+  name: musical_instrument
