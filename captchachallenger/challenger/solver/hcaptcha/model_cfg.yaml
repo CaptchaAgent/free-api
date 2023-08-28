@@ -27,3 +27,15 @@ image_label_binary:
     en: [musical instrument]
     zh: [乐器]
   name: musical_instrument
+- lang:
+    en: [violin]
+    zh: [小提琴]
+  name: violin
+- lang:
+    en: [guitar]
+    zh: [吉他]
+  name: guitar
+- lang:
+    en: [animal]
+    zh: [动物]
+  name: animal
