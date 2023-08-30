@@ -36,6 +36,6 @@ image_label_binary:
     zh: [吉他]
   name: guitar
 - lang:
-    en: [animal]
-    zh: [动物]
-  name: animal
+    en: [chair]
+    zh: [椅子]
+  name: chair
