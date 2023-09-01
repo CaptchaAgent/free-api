@@ -39,3 +39,15 @@ image_label_binary:
     en: [chair]
     zh: [椅子]
   name: chair
+- lang:
+    en: [flower]
+    zh: [花]
+  name: flower
+- lang:
+    en: [sports stadium]
+    zh: [体育场]
+  name: sports_stadium
+- lang:
+    en: [color pencil]
+    zh: [彩色铅笔]
+  name: color_pencil
