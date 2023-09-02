@@ -51,3 +51,7 @@ image_label_binary:
     en: [color pencil]
     zh: [彩色铅笔]
   name: color_pencil
+- lang:
+    en: [bonsai tree]
+    zh: [盆景树]
+  name: bonsai_tree
