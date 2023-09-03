@@ -55,3 +55,15 @@ image_label_binary:
     en: [bonsai tree]
     zh: [盆景树]
   name: bonsai_tree
+- lang:
+    en: [car]
+    zh: [汽车]
+  name: car0903
+- lang:
+    en: [door]
+    zh: [门]
+  name: door
+- lang:
+    en: [tractor]
+    zh: [拖拉机]
+  name: tractor0903
