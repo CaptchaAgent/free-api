@@ -67,3 +67,7 @@ image_label_binary:
     en: [tractor]
     zh: [拖拉机]
   name: tractor0903
+- lang:
+    en: [crumpled paper ball]
+    zh: [皱纸球]
+  name: crumpled_paper_ball
