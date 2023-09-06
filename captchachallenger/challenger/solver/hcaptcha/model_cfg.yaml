@@ -71,3 +71,11 @@ image_label_binary:
     en: [crumpled paper ball]
     zh: [皱纸球]
   name: crumpled_paper_ball
+- lang:
+    en: [river]
+    zh: [河]
+  name: river
+- lang:
+    en: [clothing]
+    zh: [衣服]
+  name: clothing
