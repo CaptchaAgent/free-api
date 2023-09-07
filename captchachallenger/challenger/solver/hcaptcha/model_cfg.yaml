@@ -79,3 +79,23 @@ image_label_binary:
     en: [clothing]
     zh: [衣服]
   name: clothing
+- lang:
+    en: [cat]
+    zh: [猫]
+  name: cat2309
+- lang:
+    en: [mountain]
+    zh: [山]
+  name: mountain2309
+- lang:
+    en: [motorcycle]
+    zh: [摩托车]
+  name: motorcycle2309
+- lang:
+    en: [excavator]
+    zh: [挖掘机]
+  name: excavator2309
+- lang:
+    en: [outdoor gear]
+    zh: [户外装备]
+  name: outdoor_gear2309
