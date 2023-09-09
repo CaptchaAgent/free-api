@@ -99,3 +99,11 @@ image_label_binary:
     en: [outdoor gear]
     zh: [户外装备]
   name: outdoor_gear2309
+- lang:
+    en: [vending machine]
+    zh: [售货机]
+  name: vending_machine2309
+- lang:
+    en: [cup of hot chocolate]
+    zh: [一杯热巧克力]
+  name: cup_of_hot_chocolate2309
