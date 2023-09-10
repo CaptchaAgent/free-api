@@ -107,3 +107,23 @@ image_label_binary:
     en: [cup of hot chocolate]
     zh: [一杯热巧克力]
   name: cup_of_hot_chocolate2309
+- lang:
+    en: [fox]
+    zh: [狐狸]
+  name: fox2309
+- lang:
+    en: [furniture]
+    zh: [家具]
+  name: furniture2309
+- lang:
+    en: [helicopter]
+    zh: [直升机]
+  name: helicopter2310
+- lang:
+    en: [motor vehicle]
+    zh: [机动车]
+  name: motor_vehicle2309
+- lang:
+    en: [chess piece]
+    zh: [棋子]
+  name: chess_piece2309
