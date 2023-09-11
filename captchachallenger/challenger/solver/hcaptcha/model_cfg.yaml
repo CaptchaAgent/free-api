@@ -127,3 +127,11 @@ image_label_binary:
     en: [chess piece]
     zh: [棋子]
   name: chess_piece2309
+- lang:
+    en: [robot]
+    zh: [机器人]
+  name: robot2309
+- lang:
+    en: [dog]
+    zh: [狗]
+  name: dog2309
