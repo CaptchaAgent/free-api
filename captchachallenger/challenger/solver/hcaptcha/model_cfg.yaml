@@ -38,7 +38,7 @@ image_label_binary:
 - lang:
     en: [chair]
     zh: [椅子]
-  name: chair
+  name: chair_sketch2309
 - lang:
     en: [flower]
     zh: [花]
@@ -135,3 +135,19 @@ image_label_binary:
     en: [dog]
     zh: [狗]
   name: dog2309
+- lang:
+    en: [seaplane]
+    zh: [水上飞机]
+  name: seaplane
+- lang:
+    en: [rollercoaster]
+    zh: [过山车]
+  name: rollercoaster2309
+- lang:
+    en: [goose]
+    zh: [鹅]
+  name: goose2309
+- lang:
+    en: [cup of iced tea]
+    zh: [一杯冰茶]
+  name: cup_of_iced_tea2309
