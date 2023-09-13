@@ -151,3 +151,31 @@ image_label_binary:
     en: [cup of iced tea]
     zh: [一杯冰茶]
   name: cup_of_iced_tea2309
+- lang:
+    en: [ladder]
+    zh: [梯子]
+  name: ladder2309
+- lang:
+    en: [electronic device]
+    zh: [电子设备]
+  name: electronic_device2309
+- lang:
+    en: [something you can eat]
+    zh: [你可以吃的东西]
+  name: something_you_can_eat2309
+- lang:
+    en: [boat]
+    zh: [船]
+  name: boat2309
+- lang:
+    en: [cup of orange juice]
+    zh: [一杯橙汁]
+  name: cup_of_orange_juice2309
+- lang:
+    en: [airplane]
+    zh: [飞机]
+  name: airplane2309
+- lang:
+    en: [plant]
+    zh: [植物]
+  name: plant2310
