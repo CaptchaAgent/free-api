@@ -82,7 +82,7 @@ image_label_binary:
 - lang:
     en: [cat]
     zh: [猫]
-  name: cat2309
+  name: cat2311
 - lang:
     en: [mountain]
     zh: [山]
@@ -98,7 +98,7 @@ image_label_binary:
 - lang:
     en: [outdoor gear]
     zh: [户外装备]
-  name: outdoor_gear2309
+  name: outdoor_gear2310
 - lang:
     en: [vending machine]
     zh: [售货机]
@@ -158,7 +158,7 @@ image_label_binary:
 - lang:
     en: [electronic device]
     zh: [电子设备]
-  name: electronic_device2309
+  name: electronic_device2310
 - lang:
     en: [something you can eat]
     zh: [你可以吃的东西]
