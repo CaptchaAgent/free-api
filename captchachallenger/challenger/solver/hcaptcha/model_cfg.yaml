@@ -46,7 +46,7 @@ image_label_binary:
 - lang:
     en: [sports stadium]
     zh: [体育场]
-  name: sports_stadium
+  name: sports_stadium2310
 - lang:
     en: [color pencil]
     zh: [彩色铅笔]
@@ -179,3 +179,15 @@ image_label_binary:
     en: [plant]
     zh: [植物]
   name: plant2313
+- lang:
+    en: [train]
+    zh: [火车]
+  name: train2309
+- lang:
+    en: [truck2309]
+    zh: [卡车]
+  name: truck2309
+- lang:
+    en: [castle]
+    zh: [城堡]
+  name: castle2309
