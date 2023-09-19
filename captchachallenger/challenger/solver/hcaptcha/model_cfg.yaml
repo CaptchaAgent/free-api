@@ -158,11 +158,11 @@ image_label_binary:
 - lang:
     en: [electronic device]
     zh: [电子设备]
-  name: electronic_device2311
+  name: electronic_device2312
 - lang:
     en: [something you can eat]
     zh: [你可以吃的东西]
-  name: something_you_can_eat2309
+  name: something_you_can_eat2310
 - lang:
     en: [boat]
     zh: [船]
@@ -178,7 +178,7 @@ image_label_binary:
 - lang:
     en: [plant]
     zh: [植物]
-  name: plant2313
+  name: plant2314
 - lang:
     en: [train]
     zh: [火车]
