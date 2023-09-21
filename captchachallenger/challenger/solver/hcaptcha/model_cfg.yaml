@@ -191,3 +191,7 @@ image_label_binary:
     en: [castle]
     zh: [城堡]
   name: castle2309
+- lang:
+    en: [industrial tool or machinery]
+    zh: [工业工具或机械]
+  name: industrial_tool_or_machinery2309
