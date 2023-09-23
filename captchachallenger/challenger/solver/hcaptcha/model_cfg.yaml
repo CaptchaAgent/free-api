@@ -211,3 +211,7 @@ image_label_binary:
     en: [road traffic]
     zh: [道路交通]
   name: road_traffic2309
+- lang:
+    en: [entertainment venue]
+    zh: [娱乐场所]
+  name: entertainment_venue2309
