@@ -192,7 +192,7 @@ image_label_binary:
     zh: [城堡]
   name: castle2309
 - lang:
-    en: [industrial tool or machinery]
+    en: [industrial tool or machinery, industrial tool or heavy machinery]
     zh: [工业工具或机械]
   name: industrial_tool_or_machinery2310
 - lang:
@@ -215,3 +215,11 @@ image_label_binary:
     en: [entertainment venue]
     zh: [娱乐场所]
   name: entertainment_venue2309
+- lang:
+    en: [natural landscape]
+    zh: [自然景观]
+  name: natural_landscape2312
+- lang:
+    en: [coffee beans]
+    zh: [咖啡豆]
+  name: coffee_beans2309
