@@ -46,7 +46,7 @@ image_label_binary:
 - lang:
     en: [sports stadium]
     zh: [体育场]
-  name: sports_stadium2310
+  name: sports_stadium2312
 - lang:
     en: [color pencil]
     zh: [彩色铅笔]
@@ -134,7 +134,7 @@ image_label_binary:
 - lang:
     en: [dog]
     zh: [狗]
-  name: dog2309
+  name: dog2312
 - lang:
     en: [seaplane]
     zh: [水上飞机]
@@ -223,3 +223,15 @@ image_label_binary:
     en: [coffee beans]
     zh: [咖啡豆]
   name: coffee_beans2309
+- lang:
+    en: [cranberry]
+    zh: [蔓越莓]
+  name: cranberry2309
+- lang:
+    en: [jacket]
+    zh: [夹克]
+  name: jacket2309
+- lang:
+    en: [trousers]
+    zh: [裤子]
+  name: trousers2309
