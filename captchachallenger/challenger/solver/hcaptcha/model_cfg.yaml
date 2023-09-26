@@ -130,7 +130,7 @@ image_label_binary:
 - lang:
     en: [robot]
     zh: [机器人]
-  name: robot2309
+  name: robot2312
 - lang:
     en: [dog]
     zh: [狗]
@@ -162,7 +162,7 @@ image_label_binary:
 - lang:
     en: [something you can eat]
     zh: [你可以吃的东西]
-  name: something_you_can_eat2310
+  name: something_you_can_eat2313
 - lang:
     en: [boat]
     zh: [船]
@@ -214,7 +214,7 @@ image_label_binary:
 - lang:
     en: [entertainment venue]
     zh: [娱乐场所]
-  name: entertainment_venue2309
+  name: entertainment_venue2310
 - lang:
     en: [natural landscape]
     zh: [自然景观]
