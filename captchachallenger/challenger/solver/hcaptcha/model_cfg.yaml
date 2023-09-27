@@ -212,10 +212,6 @@ image_label_binary:
     zh: [道路交通]
   name: road_traffic2309
 - lang:
-    en: [entertainment venue]
-    zh: [娱乐场所]
-  name: entertainment_venue2310
-- lang:
     en: [natural landscape]
     zh: [自然景观]
   name: natural_landscape2312
@@ -235,3 +231,11 @@ image_label_binary:
     en: [trousers]
     zh: [裤子]
   name: trousers2309
+- lang:
+    en: [industrial scene]
+    zh: [工业场景]
+  name: industrial_scene2310
+- lang:
+    en: [entertainment venue]
+    zh: [娱乐场所]
+  name: entertainment_venue2311
