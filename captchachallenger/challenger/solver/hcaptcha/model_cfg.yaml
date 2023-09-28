@@ -239,3 +239,12 @@ image_label_binary:
     en: [entertainment venue]
     zh: [娱乐场所]
   name: entertainment_venue2311
+- lang:
+    en: [skyscraper]
+  name: skyscraper2309
+- lang:
+    en: [shelves]
+  name: shelves2310
+- lang:
+    en: [something you can write with]
+  name: something_you_can_write_with2310
