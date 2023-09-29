@@ -72,10 +72,6 @@ image_label_binary:
     zh: [皱纸球]
   name: crumpled_paper_ball
 - lang:
-    en: [river]
-    zh: [河]
-  name: river
-- lang:
     en: [clothing]
     zh: [衣服]
   name: clothing
@@ -176,10 +172,6 @@ image_label_binary:
     zh: [飞机]
   name: airplane2309
 - lang:
-    en: [plant]
-    zh: [植物]
-  name: plant2314
-- lang:
     en: [train]
     zh: [火车]
   name: train2309
@@ -248,3 +240,23 @@ image_label_binary:
 - lang:
     en: [something you can write with]
   name: something_you_can_write_with2310
+- lang:
+    en: [desert]
+  name: desert2310
+- lang:
+    en: [river]
+    zh: [河]
+  name: river2310
+- lang:
+    en: [plant]
+    zh: [植物]
+  name: plant2316
+- lang:
+    en: [crane]
+  name: crane2309
+- lang:
+    en: [crow]
+  name: crow2309
+- lang:
+    en: [snowman]
+  name: snowman2310
