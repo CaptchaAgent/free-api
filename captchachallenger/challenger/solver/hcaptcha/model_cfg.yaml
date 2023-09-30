@@ -152,10 +152,6 @@ image_label_binary:
     zh: [梯子]
   name: ladder2309
 - lang:
-    en: [electronic device]
-    zh: [电子设备]
-  name: electronic_device2312
-- lang:
     en: [something you can eat]
     zh: [你可以吃的东西]
   name: something_you_can_eat2313
@@ -168,17 +164,9 @@ image_label_binary:
     zh: [一杯橙汁]
   name: cup_of_orange_juice2309
 - lang:
-    en: [airplane]
-    zh: [飞机]
-  name: airplane2309
-- lang:
     en: [train]
     zh: [火车]
   name: train2309
-- lang:
-    en: [truck2309]
-    zh: [卡车]
-  name: truck2309
 - lang:
     en: [castle]
     zh: [城堡]
@@ -228,10 +216,6 @@ image_label_binary:
     zh: [工业场景]
   name: industrial_scene2310
 - lang:
-    en: [entertainment venue]
-    zh: [娱乐场所]
-  name: entertainment_venue2311
-- lang:
     en: [skyscraper]
   name: skyscraper2309
 - lang:
@@ -248,15 +232,34 @@ image_label_binary:
     zh: [河]
   name: river2310
 - lang:
-    en: [plant]
-    zh: [植物]
-  name: plant2316
-- lang:
     en: [crane]
   name: crane2309
 - lang:
     en: [crow]
   name: crow2309
 - lang:
+    en: [truck]
+    zh: [卡车]
+  name: truck2310
+- lang:
+    en: [electronic device]
+    zh: [电子设备]
+  name: electronic_device2313
+- lang:
+    en: [animal statue]
+  name: animal_statue2309
+- lang:
+    en: [plant]
+    zh: [植物]
+  name: plant2318
+- lang:
+    en: [entertainment venue]
+    zh: [娱乐场所]
+  name: entertainment_venue2312
+- lang:
+    en: [airplane]
+    zh: [飞机]
+  name: airplane2310
+- lang:
     en: [snowman]
-  name: snowman2310
+  name: snowman2311
