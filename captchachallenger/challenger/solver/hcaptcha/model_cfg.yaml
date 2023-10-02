@@ -192,10 +192,6 @@ image_label_binary:
     zh: [道路交通]
   name: road_traffic2309
 - lang:
-    en: [natural landscape]
-    zh: [自然景观]
-  name: natural_landscape2312
-- lang:
     en: [coffee beans]
     zh: [咖啡豆]
   name: coffee_beans2309
@@ -242,10 +238,6 @@ image_label_binary:
     zh: [卡车]
   name: truck2310
 - lang:
-    en: [electronic device]
-    zh: [电子设备]
-  name: electronic_device2313
-- lang:
     en: [animal statue]
   name: animal_statue2309
 - lang:
@@ -253,13 +245,21 @@ image_label_binary:
     zh: [植物]
   name: plant2318
 - lang:
-    en: [entertainment venue]
-    zh: [娱乐场所]
-  name: entertainment_venue2312
-- lang:
     en: [airplane]
     zh: [飞机]
   name: airplane2310
 - lang:
     en: [snowman]
   name: snowman2311
+- lang:
+    en: [natural landscape]
+    zh: [自然景观]
+  name: natural_landscape2313
+- lang:
+    en: [entertainment venue]
+    zh: [娱乐场所]
+  name: entertainment_venue2315
+- lang:
+    en: [electronic device]
+    zh: [电子设备]
+  name: electronic_device2315
