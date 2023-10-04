@@ -152,10 +152,6 @@ image_label_binary:
     zh: [梯子]
   name: ladder2309
 - lang:
-    en: [something you can eat]
-    zh: [你可以吃的东西]
-  name: something_you_can_eat2313
-- lang:
     en: [boat]
     zh: [船]
   name: boat2309
@@ -241,10 +237,6 @@ image_label_binary:
     en: [animal statue]
   name: animal_statue2309
 - lang:
-    en: [plant]
-    zh: [植物]
-  name: plant2318
-- lang:
     en: [airplane]
     zh: [飞机]
   name: airplane2310
@@ -263,3 +255,23 @@ image_label_binary:
     en: [electronic device]
     zh: [电子设备]
   name: electronic_device2315
+- lang:
+    en: [sushi]
+  name: sushi2309
+- lang:
+    en: [steak]
+  name: steak2309
+- lang:
+    en: [pizza]
+  name: pizza2300
+- lang:
+    en: [main course]
+  name: main_course2309
+- lang:
+    en: [something you can eat]
+    zh: [你可以吃的东西]
+  name: something_you_can_eat2314
+- lang:
+    en: [plant]
+    zh: [植物]
+  name: plant2319
