@@ -172,10 +172,6 @@ image_label_binary:
     zh: [工业工具或机械]
   name: industrial_tool_or_machinery2310
 - lang:
-    en: [food or beverage item]
-    zh: [食品或饮料项目]
-  name: food_or_beverage_item2309
-- lang:
     en: [elephant]
     zh: [大象]
   name: elephant2309
@@ -203,10 +199,6 @@ image_label_binary:
     en: [trousers]
     zh: [裤子]
   name: trousers2309
-- lang:
-    en: [industrial scene]
-    zh: [工业场景]
-  name: industrial_scene2310
 - lang:
     en: [skyscraper]
   name: skyscraper2309
@@ -256,12 +248,6 @@ image_label_binary:
     zh: [电子设备]
   name: electronic_device2315
 - lang:
-    en: [sushi]
-  name: sushi2309
-- lang:
-    en: [steak]
-  name: steak2309
-- lang:
     en: [pizza]
   name: pizza2300
 - lang:
@@ -275,3 +261,26 @@ image_label_binary:
     en: [plant]
     zh: [植物]
   name: plant2319
+- lang:
+    en: [trees]
+  name: trees2309
+- lang:
+    en: [steak]
+  name: steak2310
+- lang:
+    en: [industrial scene]
+    zh: [工业场景]
+  name: industrial_scene2311
+- lang:
+    en: [sushi]
+  name: sushi2310
+- lang:
+    en: [car without a roof]
+  name: car_without_a_roof2309
+- lang:
+    en: [gnome]
+  name: gnome2310
+- lang:
+    en: [food or beverage item]
+    zh: [食品或饮料项目]
+  name: food_or_beverage_item2310
