@@ -284,3 +284,6 @@ image_label_binary:
     en: [food or beverage item]
     zh: [食品或饮料项目]
   name: food_or_beverage_item2310
+- lang:
+    en: [fresh fruit]
+  name: fresh_fruit2309
