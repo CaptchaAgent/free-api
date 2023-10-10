@@ -287,3 +287,6 @@ image_label_binary:
 - lang:
     en: [fresh fruit]
   name: fresh_fruit2311
+- lang:
+    en: [owl]
+  name: owl2309
