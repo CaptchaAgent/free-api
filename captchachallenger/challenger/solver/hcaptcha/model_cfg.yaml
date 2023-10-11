@@ -290,3 +290,6 @@ image_label_binary:
 - lang:
     en: [owl]
   name: owl2309
+- lang:
+    en: [beverage]
+  name: beverage2309
