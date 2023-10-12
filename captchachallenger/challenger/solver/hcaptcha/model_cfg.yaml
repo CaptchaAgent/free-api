@@ -293,3 +293,6 @@ image_label_binary:
 - lang:
     en: [beverage]
   name: beverage2309
+- lang:
+    en: [please click on the largest animal]
+  name: please_click_on_the_largest_animal2309
