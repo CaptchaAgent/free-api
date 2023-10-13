@@ -152,10 +152,6 @@ image_label_binary:
     zh: [梯子]
   name: ladder2309
 - lang:
-    en: [boat]
-    zh: [船]
-  name: boat2309
-- lang:
     en: [cup of orange juice]
     zh: [一杯橙汁]
   name: cup_of_orange_juice2309
@@ -251,9 +247,6 @@ image_label_binary:
     en: [pizza]
   name: pizza2300
 - lang:
-    en: [main course]
-  name: main_course2309
-- lang:
     en: [something you can eat]
     zh: [你可以吃的东西]
   name: something_you_can_eat2314
@@ -281,18 +274,25 @@ image_label_binary:
     en: [gnome]
   name: gnome2310
 - lang:
-    en: [food or beverage item]
-    zh: [食品或饮料项目]
-  name: food_or_beverage_item2310
-- lang:
     en: [fresh fruit]
   name: fresh_fruit2311
 - lang:
     en: [owl]
   name: owl2309
 - lang:
-    en: [beverage]
-  name: beverage2309
-- lang:
     en: [please click on the largest animal]
   name: please_click_on_the_largest_animal2309
+- lang:
+    en: [food or beverage item]
+    zh: [食品或饮料项目]
+  name: food_or_beverage_item2312
+- lang:
+    en: [main course]
+  name: main_course2311
+- lang:
+    en: [boat]
+    zh: [船]
+  name: boat2310
+- lang:
+    en: [beverage]
+  name: beverage2310
