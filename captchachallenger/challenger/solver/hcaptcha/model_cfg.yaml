@@ -280,9 +280,6 @@ image_label_binary:
     en: [owl]
   name: owl2309
 - lang:
-    en: [please click on the largest animal]
-  name: please_click_on_the_largest_animal2309
-- lang:
     en: [food or beverage item]
     zh: [食品或饮料项目]
   name: food_or_beverage_item2312
