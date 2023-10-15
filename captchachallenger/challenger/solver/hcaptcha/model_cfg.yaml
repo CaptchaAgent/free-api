@@ -292,4 +292,7 @@ image_label_binary:
   name: boat2310
 - lang:
     en: [beverage]
-  name: beverage2310
+  name: beverage2311
+- lang:
+    en: [bird]
+  name: bird2309
