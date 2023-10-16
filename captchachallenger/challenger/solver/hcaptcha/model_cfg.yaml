@@ -296,3 +296,9 @@ image_label_binary:
 - lang:
     en: [bird]
   name: bird2309
+- lang:
+    en: [drone]
+  name: drone2309
+- lang:
+    en: [meerkat]
+  name: meerkat2309
