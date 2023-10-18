@@ -302,3 +302,15 @@ image_label_binary:
 - lang:
     en: [meerkat]
   name: meerkat2309
+- lang:
+    en: [indoor vertical farm]
+  name: indoor_vertical_farm2309
+- lang:
+    en: [smartwatch]
+  name: smartwatch2309
+- lang:
+    en: [vineyard]
+  name: vineyard2309
+- lang:
+    en: [hat]
+  name: hat2310
