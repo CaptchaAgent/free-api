@@ -314,3 +314,6 @@ image_label_binary:
 - lang:
     en: [hat]
   name: hat2310
+- lang:
+    en: [3d printer]
+  name: 3d_printer2309
